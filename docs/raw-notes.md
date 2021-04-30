@@ -1,0 +1,44 @@
+# Final Fantasy 3.25
+
+- [ ] Updated website to be easier to read
+  - Make a modern version of the website
+- [ ] Updated language to make things clearer when playing
+  - Update terminology used with `Learned` skills, as this trips up players
+- [ ] Attribute/Stat Rework
+  - Dexterity & Mind are bad, just Accuracy & M.Acc - 50
+  - M.Acc Formula: `MAG * 2 + Job Acc + Wpn Skill`
+  - M.Eva Formula: `AGI + SPR`
+- [ ] Skill Rework
+  - Do we bother?
+  - How to lessen the points to distribute
+    - Currently, players are given 400+ skill points to distribute
+    - Limit skill points by 1/5
+    - Skill Cap is 10 + 1/4 Level
+    - Skill Rating = Skill Points * 5
+  - Languages work like D&D
+    - Everyone speaks Common
+    - Racial/Background Languages +1 each
+    - Humes get +1 of choice
+    - Learn a language at GM discression for some cost
+    - Create list of Lore Skills
+      - Basic & Specific Lore
+      - Specific Lore tied to Basic
+      - Specific cap at Basic Value
+- [ ] Job Reworks
+  - Only update jobs players want to use (Black Mage, Dark Knight, Engineer, Monk, White Caller)
+  - Give each job a reaction
+  - Give each job a support ability
+    - Inate Magic Atk Up for Black Mages
+    - Inate Teleport for Time Mages
+    - Inate Ignore Height for Dragoons
+  - Make sure jobes get more skills as they level (e.g. Monk gets 11~ abilities where Black Mage gets 34)
+  - Abilities & Actions shouldn't auto hit, and in fact need detriments to basic attacks
+- [ ] Magic Update
+  - Add Revivify (2, WHT, 25 MP, Res @ 10%, use once per scene)
+  - Raise (40 MP, Res @ 25%)
+  - Add "Magic Blind"
+- [ ] Move System
+  - Make Mov 4, Jump 2 the default (I think that's the only change needed)
+- [ ] Monster System Update
+  - Arm Formula: `Armor Base * VIT * 1.5`
+  - M.Arm Formula: `MArmor Base * SPR * 1.5`
