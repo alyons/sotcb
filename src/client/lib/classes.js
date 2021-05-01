@@ -5,7 +5,7 @@ import remark from 'remark'
 import gfm from 'remark-gfm'
 import html from 'remark-html'
 
-const classesDirectory = path.join(process.cwd(), 'content', 'classes');
+const classesDirectory = path.join(process.cwd(), 'src', 'client', 'content', 'classes');
 
 export function getSortedClassesData() {
   const fileNames = fs.readdirSync(classesDirectory);
