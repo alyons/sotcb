@@ -1,9 +1,10 @@
 ---
-permalink: /docs/ffrpg5/classes/black-mage/
+type: "magical"
 title: "Black Mage"
+image: "3-blackmagearc-a.jpg"
 ---
 
-HP Die: d6
+HP Die: d6  
 MP Die: d10
 
 Level: 5
@@ -28,11 +29,11 @@ Level: 5
 |Acc.     |  101  |
 |M.Acc.   |  105  |
 
-Move: 4
+Move: 4  
 Jump: 2
 
-Fire - 7 MP - Range: 5,1 - 4 * MAG + 5, M.Arm. Fire Damage
-Thunder - 7 MP - Range: 5,1 - 4 * MAG + 5, M.Arm. Lightning Damage
-Blizzard - 7 MP - Range: 5,1 - 4 * MAG + 5, M.Arm. Ice Damage
-Poison - 5 MP - Range: 5,1 - M.Acc.-50,M.Eva. Poison (Infinite)
+Fire - 7 MP - Range: 5,1 - 4 * MAG + 5, M.Arm. Fire Damage  
+Thunder - 7 MP - Range: 5,1 - 4 * MAG + 5, M.Arm. Lightning Damage  
+Blizzard - 7 MP - Range: 5,1 - 4 * MAG + 5, M.Arm. Ice Damage  
+Poison - 5 MP - Range: 5,1 - M.Acc.-50,M.Eva. Poison (Infinite)  
 Blind - 5 MP - Range: 5,1 - M.Acc.-50,M.Eva. Blind (4)

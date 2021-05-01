@@ -1,6 +1,7 @@
 ---
-permalink: /docs/ffrpg5/classes/white-mage/
+type: "magical"
 title: "White Mage"
+image: "650f03fcc9f9f543306f55c9ac83ad27.png"
 ---
 
 HP Die: d6

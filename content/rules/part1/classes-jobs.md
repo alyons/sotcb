@@ -29,7 +29,6 @@ Active Role
   - Your level 20 Red Mage would have access to Black Magic 1, White Magic 1, 
     and Dual Cast, but not Devestation 1 nor Solace 1
 
-
 ### Martial Classes
 
 Fencer

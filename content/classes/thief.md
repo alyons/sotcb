@@ -1,6 +1,7 @@
 ---
-permalink: /docs/ffrpg5/classes/thief/
+type: "technical"
 title: "Thief"
+image: "granblue-fantasy-final-fantasy-x-2-thief-final-fantasy-tactics-png-favpng-KrCyw9csZ7ZhVsXBeFeazK62p.jpg"
 ---
 
 HP Die: d8

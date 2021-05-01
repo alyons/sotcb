@@ -1,6 +1,7 @@
 ---
-permalink: /docs/ffrpg5/classes/fighter/
+type: "martial"
 title: "Fighter"
+image: "90145cb38980839a0d042ee7d44c5120.jpg"
 ---
 
 HP Die: d10
