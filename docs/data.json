@@ -1,0 +1,25 @@
+{
+  "attacks" : [ {
+    "areaOfEffect" : 1,
+    "damageDie" : "d10",
+    "damageReduction" : "armor",
+    "damageType" : "Physical",
+    "dodge" : "evasion",
+    "identifyFriendOrFoe" : false,
+    "name" : "Bite",
+    "range" : 1,
+    "toHit" : "accuracy",
+    "verticalReach" : 1
+  }, {
+    "areaOfEffect": 1,
+    "damageDie": "d8",
+    "damageReduction": "armor",
+    "damageType": "Water",
+    "dodge": "evasion",
+    "identifyFriendOrFoe": false,
+    "name": "Scale Shot",
+    "range": 4,
+    "toHit": "accuracy",
+    "verticalReach": 1
+  } ]
+}
