@@ -12,6 +12,7 @@
     "dev": "npm run dev:client & npm run dev:server",
     "preserve": "npm run build",
     "serve": "cross-env NODE_ENV=production firebase serve --only functions,hosting",
+    "predeploy": "npm run build",
     "deploy": "cross-env NODE_ENV=production firebase deploy --only functions,hosting"
   },
   "keywords": [],
