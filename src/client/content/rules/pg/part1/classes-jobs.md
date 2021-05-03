@@ -1,6 +1,8 @@
 ---
-permalink: /docs/ffrpg5/classes-jobs/
 title: "Classes and Jobs"
+book: "pg"
+section: 1
+chapter: 2
 ---
 
 This will be text about how not all Final Fantasy games have classes and jobs, 

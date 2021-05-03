@@ -1,6 +1,8 @@
 ---
-permalink: /ffrpg350/part3/magic/white/
 title: "White Magic Spell List"
+book: "pg"
+section: 3
+chapter: 6
 ---
 
 ~~Spell Name~~ - This spell is being removed

@@ -1,6 +1,8 @@
 ---
-permalink: /docs/ffrpg5/combat/
 title: "Combat"
+book: "pg"
+section: 2
+chapter: 3
 ---
 
 ## How Do

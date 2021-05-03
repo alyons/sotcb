@@ -1,6 +1,8 @@
 ---
-permalink: /ffrpg350/part3/magic/black/
 title: "Black Magic Spell List"
+book: "pg"
+section: 3
+chapter: 4
 ---
 
 ~~Spell Name~~ - This spell is being removed

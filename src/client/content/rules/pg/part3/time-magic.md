@@ -1,6 +1,8 @@
 ---
-permalink: /ffrpg350/part3/magic/time/
 title: "Time Magic Spell List"
+book: "pg"
+section: 3
+chapter: 5
 ---
 
 ~~Spell Name~~ - This spell is being removed

@@ -1,6 +1,8 @@
 ---
-permalink: /ffrpg350/
 title: "Introduction"
+book: "pg"
+section: 0
+chapter: 1
 ---
 
 Welcome to Final Fantasy Role Playing Game 3.50.

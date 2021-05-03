@@ -1,6 +1,8 @@
 ---
-permalink: /ffrpg350/part0/prelude/
 title: "Prelude"
+book: "pg"
+section: 0
+chapter: 0
 ---
 
 ## Why this Version of the Game Exists
