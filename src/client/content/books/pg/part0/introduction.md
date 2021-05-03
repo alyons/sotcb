@@ -1,11 +1,11 @@
 ---
 title: "Introduction"
 book: "pg"
-section: 0
-chapter: 1
+part: 0
+chapter: 0
 ---
 
-Welcome to Final Fantasy Role Playing Game 3.50.
+Welcome to Shards of the Crystal Braves - A Final Fantasy Table Top Roleplaying Game.
 
 ## Worlds of Final Fantasy
 
@@ -20,8 +20,7 @@ Talk about the multiverse of Final Fantasy (maybe lift from current book).
 Part 1 - Building a Character  
 Part 2 - Playing the Game  
 Part 3 - Magic and Spellcasting  
-Part 4 - For the Game Master  
-Part 5 - Appendix  
+Part 4 - Appendix  
 
 ## How to Play
 

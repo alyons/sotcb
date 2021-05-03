@@ -1,7 +1,7 @@
 ---
 title: "Classes and Jobs"
 book: "pg"
-section: 1
+part: 1
 chapter: 2
 ---
 

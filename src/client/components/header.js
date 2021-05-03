@@ -48,7 +48,7 @@ function Header({ props }) {
           <Link href="/">Magic</Link>
         </MenuItem>
       </Menu>
-      <Link href="/ruleToC"><Button>Rules</Button></Link>
+      <Link href="/books"><Button>Rules</Button></Link>
       <Button id="tool-button" aria-controls="tool-menu" aria-haspopup="true" onClick={openMenu}>
         Tools
       </Button>

@@ -1,7 +1,7 @@
-import fs from 'fs';
-import path from 'path';
+const path = require('path');
+const fs = require('fs');
 
-export function getAllFilesRecursive(baseDir, diveDir = '', files = []) {
+function getAllFilesRecursive(baseDir, diveDir = '', files = []) {
   let testFiles = fs.readdirSync(path.join(baseDir, diveDir));
 
   testFiles.forEach(file => {
@@ -14,3 +14,8 @@ export function getAllFilesRecursive(baseDir, diveDir = '', files = []) {
 
   return files;
 }
+
+
+let files = getAllFilesRecursive(path.join(__dirname, 'src/client/content/books'));
+
+console.log(files);
