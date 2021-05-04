@@ -7,7 +7,7 @@
     "build:client": "next build src/client",
     "build:server": "babel src/server --out-dir dist/server --source-maps",
     "build": "npm run build:client && npm run build:server",
-    "dev:client": "next src/client",
+    "dev:client": "NODE_OPTIONS='--inspect' next src/client",
     "dev:server": "babel src/server --out-dir dist/server --source-maps --watch",
     "dev": "npm run dev:client & npm run dev:server",
     "preserve": "npm run build",
