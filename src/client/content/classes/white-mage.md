@@ -4,8 +4,13 @@ title: "White Mage"
 image: "650f03fcc9f9f543306f55c9ac83ad27.png"
 ---
 
+## Stats
+
 HP Die: d6
 MP Die: d10
+
+HP: 20
+MP: 30
 
 Level: 5
 
@@ -32,8 +37,32 @@ Level: 5
 Move: 4
 Jump: 2
 
-Areo - 7 MP - Range: 5,1 - 4 * MAG + 5, M.Arm. Wind Damage
-Stone - 7 MP - Range: 5,1 - 4 * MAG + 5, M.Arm. Earth Damage
-Cure - 5 MP - Range: 5,1 - 4 * MAG + 5 Restore HP
-Poisona - 5 MP - Range: 5,1 - M.Acc.-50,M.Eva. Cleans Category:Toxin
-Sleep - 5 MP - Range: 5,1 - M.Acc.-50,M.Eva. Sleep (4)
+## Abilities
+
+### Aero
+Range: 5,1  
+Cost: 7 MP  
+To Hit: `M.Acc vs M.Eva`  
+Damage: `4 * MAG + 1d8` Wind Damage  
+
+### Stone
+Range: 5,1  
+Cost: 7 MP  
+To Hit: `M.Acc vs M.Eva`  
+Damage: `4 * MAG + 1d8` Earth Damage  
+
+### Cure
+Range: 5,1  
+Cost: 5 MP  
+Healing: `4 * MAG + 1d8`  
+
+### Poisona
+Range: 5,1  
+Cost: 5 MP  
+Healing: Cleanse `Category: Toxin`  
+
+### Sleep
+Range: 5,1  
+Cost: 5 MP  
+To Hit: `M.Acc - 50 vs M.Eva`  
+Effect: Sleep (4)  

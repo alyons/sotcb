@@ -4,8 +4,13 @@ title: "Black Mage"
 image: "3-blackmagearc-a.jpg"
 ---
 
+## Stats 
+
 HP Die: d6  
 MP Die: d10
+
+HP: 20
+MP: 30
 
 Level: 5
 
@@ -32,8 +37,34 @@ Level: 5
 Move: 4  
 Jump: 2
 
-Fire - 7 MP - Range: 5,1 - 4 * MAG + 5, M.Arm. Fire Damage  
-Thunder - 7 MP - Range: 5,1 - 4 * MAG + 5, M.Arm. Lightning Damage  
-Blizzard - 7 MP - Range: 5,1 - 4 * MAG + 5, M.Arm. Ice Damage  
-Poison - 5 MP - Range: 5,1 - M.Acc.-50,M.Eva. Poison (Infinite)  
-Blind - 5 MP - Range: 5,1 - M.Acc.-50,M.Eva. Blind (4)
+## Abilities
+
+### Fire
+Range: 5,1  
+Cost: 7 MP  
+To Hit: `M.Acc vs M.Eva`  
+Damage: `4 * MAG + 1d8` Fire Damage  
+
+### Thunder
+Range: 5,1  
+Cost: 7 MP  
+To Hit: `M.Acc vs M.Eva`  
+Damage: `4 * MAG + 1d8` Lightning Damage  
+
+### Blizzard
+Range: 5,1  
+Cost: 7 MP  
+To Hit: `M.Acc vs M.Eva`  
+Damage: `4 * MAG + 1d8` Ice Damage  
+
+### Poison
+Range: 5,1  
+Cost: 5 MP  
+To Hit: `M.Acc - 50 vs M.Eva`  
+Effect: Poison (Inifinite)  
+
+### Blind
+Range: 5,1  
+Cost: 5 MP  
+To Hit: `M.Acc - 50 vs M.Eva`  
+Effect: Blind (4)  
