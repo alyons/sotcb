@@ -7,9 +7,6 @@ import utilStyles from '../../styles/utils.module.css';
 
 export async function getStaticPaths() {
   const paths = getAllBookContentIds();
-  // paths.forEach(path => {
-  //   console.log(path.params.id.join('/'));
-  // });
 
   return {
     paths,
