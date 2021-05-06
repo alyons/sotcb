@@ -52,10 +52,13 @@ export function getAllBooksData() {
 export function getAllBookContentIds() {
   const fileNames = getAllFilesRecursive(booksDirectory);
 
+  // substring(1) removes the leading slash in the file names
+  // we should probably change the getAllFilesRecursively to return 
+  // without the leading slash
   return fileNames.map(filename => {
     return {
       params: {
-        id: filename.replace(/\.md$/, '').split('/')
+        id: filename.substring(1).replace(/\.md$/, '').split('/')
       }
     }
   })
